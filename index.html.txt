@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Minha Aplicação Web no Azure</title>
+</head>
+<body>
+  <h1>Hello World!</h1>
+  <p>Esta é minha primeira aplicação web no Azure usando Git.</p>
+</body>
+</html>
